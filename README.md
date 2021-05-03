@@ -1,6 +1,6 @@
 # multithreading-programs
 
-# The Tasks in the project is available in the Project2.pdf
+## The Tasks in the project is available in the Project2.pdf
 
 ## Group members:
 + Student Name: Dilanga Algama (8253677)
